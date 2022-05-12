@@ -2,16 +2,11 @@
 
 ## Install
 ```
-git clone https://github.com/Harmoware/Harmoware-VIS-Demo.git
+git clone https://github.com/Harmoware/Harmoware-VIS-TileLayer.git
 
-cd Harmoware-VIS-Demo
+cd Harmoware-VIS-TileLayer
 
 npm install
-```
-## Enter your Mapbox access token in the source code
-src\containers\app.js : Line 6
-```
-6 | const MAPBOX_TOKEN = '< Enter your Mapbox access token >'; //Acquire Mapbox accesstoken
 ```
 
 ## Run
